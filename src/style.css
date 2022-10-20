@@ -1,72 +1,79 @@
-html {
+html{
+
 }
-body {
-  margin: 0;
-  background-color: #edf2c5;
-  margin-left: 360px;
-  margin-right: 360px;
+body{
+    margin:0;
+    background-color: #edf2c5; 
+    margin-left:160px;
+    margin-right:160px;
 }
-.container {
-  max-width: 940px;
-  margin-left: 160px;
-  margin-right: 160px;
+.container{
+    max-width: 940px;
+    margin-left:160px;
+    margin-right:160px;  
 }
-.header {
-  font-size: 44px;
-  font-weight: 940;
-  display: flex;
-  margin-top: 36px;
-  margin-bottom: 5px;
-  line-height: 0.82;
-  font-size: 44px;
-  font-weight: 900;
-  align-items: baseline;
-  font-family: Arial;
+.header{
+    font-size: 44px;
+    font-weight: 940;
+    display: flex;  
+    margin-top: 36px;
+    margin-bottom: 5px;
+    line-height: 0.82;
+    font-size: 44px;
+    font-weight: 900;
+    align-items: baseline;
+    font-family: Arial;
 }
-h1 {
-  color: #778a50;
-  font-weight: 940;
-  font-size: 44px;
-  margin-right: ;
-  align-items: flex-start;
+h1{
+    color: #778a50;
+    font-weight:940;
+    font-size: 44px;
+    margin-right:;
+    align-items:flex-start       
 }
 
-.header2 {
-  margin-left: px;
-  display: flex;
-  align-items: center;
-  margin-left: 1000px;
+
+.header2{
+    margin-left: px;
+    display: flex;
+    align-items: center;
+    margin-left:1000px;
+  
 }
 
-.btn_facebook {
-  margin-right: 10px;
-  margin-left: -531px;
+.btn_facebook{
+    margin-right: 10px;
+    margin-left:-531px;
+    
 }
 
-.line_login {
-  width: 1px;
-  height: 25px;
-  margin: 10px;
-  background-color: #778a50;
+.line_login{
+    width: 1px;
+    height: 25px;
+    margin: 10px;
+    background-color: #778a50;
 }
-.btn_LOGIN_box:hover {
-  transform: scale(0.9);
-  color: #edf2c5;
-  background-color: #778a50;
+.btn_LOGIN_box:hover{
+    transform: scale(0.9);
+    color: #edf2c5;
+    background-color: #778a50;
 }
 
-.btn_JOIN_box:hover {
-  transform: scale(0.9);
-  color: #edf2c5;
-  background-color: #778a50;
+
+.btn_JOIN_box:hover{
+    transform: scale(0.9);
+    color: #edf2c5;
+    background-color: #778a50;
 }
-.LL {
-  display: flex;
+.LL{
+    display: flex;   
+  
 }
-.JJ {
-  display: flex;
+.JJ{
+    display: flex;   
+  
 }
-.L {
+.L{
   width: 20px;
   height: 10px;
   font-family: Arial;
@@ -79,10 +86,10 @@ h1 {
   text-align: left;
   color: #778a50;
   margin: px;
-  margin-left: px;
+  margin-left:px;
 }
 
-.J {
+.J{
   width: 35px;
   height: 15px;
   font-family: Arial;
@@ -94,136 +101,140 @@ h1 {
   letter-spacing: normal;
   text-align: left;
   color: #778a50;
-  margin: px;
+  margin:px;
 }
 .btn_LOGIN_box {
-  margin: 0;
-  color: #778a50;
-  font-size: 14px;
-  font-weight: bold;
-  text-decoration: dashed;
-  padding: 6px 7px;
-  border: 1px solid #778a50;
-  border-radius: 3px;
-  margin: 0px 0px 0 px;
-  transition: all 0.3s linear;
+    margin: 0;   
+    color: #778a50;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: dashed; 
+    padding:6px  7px ;
+    border: 1px solid  #778a50 ;
+    border-radius: 3px;
+    margin: 0px 0px 0 px;
+    transition: all .3s linear;
 }
 .btn_JOIN_box {
-  margin: 0;
-  color: #778a50;
-  font-size: 14px;
-  font-weight: bold;
-  text-decoration: dashed;
-  padding: 6px 7px;
-  border: 1px solid #778a50;
-  border-radius: 3px;
-  margin: 0px 0px 0 10px;
-  transition: all 0.3s linear;
+    margin: 0;   
+    color: #778a50;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: dashed; 
+    padding:6px  7px ;
+    border: 1px solid  #778a50 ;
+    border-radius:3px;
+    margin: 0px 0px 0 10px;
+    transition: all .3s linear;
 }
-.nav {
+.nav{
   width: 595px;
-  height: 44px;
-  margin: -10px 0 0;
-  padding: 10px 316px 11px 30px;
-  border-radius: 3px;
-  background-color: #778a50;
-  font-family: Arial;
-  margin-left: 160px;
+  height:44px;
+  margin:-10px 0 0;
+  padding:10px 316px 11px 30px;
+  border-radius:3px;
+  background-color:#778a50;
+  font-family:Arial; 
+  margin-left:160px;
 }
 
-.nav-list {
-  display: flex;
-  margin-left: -35px;
+.nav-list{
+    display: flex;
+  margin-left:-35px;
 }
 
-.nav-list-item {
-  margin-right: 60px;
-  list-style: none;
-  margin-top: -5px;
+.nav-list-item{
+    margin-right :60px;
+    list-style: none;
+    margin-top:-5px;    
 }
-.nav-list-item-link {
+.nav-list-item-link{
   font-size: 16px;
   font-weight: 940;
   text-align: left;
   color: #edf2c5;
-  text-decoration: dashed;
-  transition: all 0.2s linear;
+  text-decoration: dashed; 
+  transition: all .2s linear;
+  
 }
 
-.nav-list-item-link:hover {
-  color: #4a5112;
+
+.nav-list-item-link:hover{
+    color: #4a5112;
 }
 
-.img_main_pumpkin {
+.img_main_pumpkin{
   width: 940px;
   height: 448px;
   margin: 20px 0 30px;
   object-fit: contain;
-  margin-left: 160px;
+  margin-left:160px;
+  
 }
 
-.Vegetables {
-  margin-top: px;
-  margin-left: 160px;
-  display: flex;
-  flex-direction: row;
+.Vegetables{
+    margin-top: px;
+    margin-left:160px;
+    display: flex;
+    flex-direction: row;
 }
 
-.body_box_vegetables {
+.body_box_vegetables{
   width: 115px;
   height: 45px;
   margin: 30px 52px 15px 0;
   padding: 10px 316px 12px 30px;
   border-radius: 3px;
   background-color: #778a50;
+  
 }
 
-.body_box_vegetablestext {
-  margin: 0;
-  color: #edf2c5;
-  text-align: left;
-  font-size: 16px;
-  font-weight: 900;
-  padding-left: 30px;
-  line-height: 45px;
-  font-family: Arial;
-  margin-left: -25px;
+.body_box_vegetablestext{
+    margin: 0;
+    color: #edf2c5;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 900;
+    padding-left: 30px;
+    line-height: 45px;
+    font-family: Arial;  
+    margin-left:-25px;
 }
-
-.A1 {
-  display: flex;
-  margin: 0px;
-  margin-bottom: 35px;
+  
+.A1{
+    display: flex;   
+    margin:0px;
+    margin-bottom: 35px;
 }
-.img_vegetables_pepper {
+.img_vegetables_pepper{
   width: 140px;
   height: 140px;
   margin: 8px 12px 0 0;
   object-fit: contain;
 }
-.img_vegetables_carrot {
+.img_vegetables_carrot{
   width: 140px;
   height: 140px;
   margin: 8px;
   object-fit: contain;
 }
-.img_vegetables_corn {
+.img_vegetables_corn{
   width: 140px;
   height: 140px;
   margin: 8px 12px 0;
   object-fit: contain;
 }
 
-.body_box_contact {
+.body_box_contact{
   width: 65px;
   height: 45px;
-  margin: 30px;
+  margin:30px;
   padding: 10px 345px 12px 30px;
   border-radius: 3px;
   background-color: #778a50;
-  margin-left: -10px;
+  margin-left:-10px;
 }
-.body_box_contact_text {
+.body_box_contact_text{
   width: 69px;
   height: 23px;
   font-family: Arial;
@@ -231,10 +242,10 @@ h1 {
   font-weight: 900;
   line-height: 1;
   color: #edf2c5;
-  margin-left: 20px;
+  margin-left:20px;
 }
 
-.B1 {
+.B1{
   width: 410px;
   height: 110px;
   margin: 40px -28px 0;
@@ -242,9 +253,9 @@ h1 {
   background-color: #f7fbda;
 }
 
-.FOR {
-  width: 400px;
-  height: 44px;
+.FOR{
+  width:400px;
+  height:44px;
   margin: 0 0 15px;
   font-family: Arial;
   font-size: 12px;
@@ -257,7 +268,7 @@ h1 {
   color: #7d7d7d;
 }
 
-.EP {
+.EP{
   width: 414px;
   height: 44px;
   margin: 0;
@@ -272,14 +283,14 @@ h1 {
   color: #7d7d7d;
 }
 
-.line2 {
+.line2{
   width: 414px;
   height: 1px;
   margin: 15px 0;
   background-color: #7d7d7d;
 }
 
-.COPY {
+.COPY{
   width: 940px;
   height: 40px;
   margin: -10px -400px 0px;
@@ -288,11 +299,14 @@ h1 {
   margin-top: 30px;
 }
 
-.C {
-  text-align: center;
-  line-height: 60px;
-  font-size: 12px;
-  color: #edf2c5;
-  font-family: Arial;
-  margin-left: 430px;
+.C{
+    text-align: center;
+    line-height: 60px;
+    font-size: 12px;
+    color: #edf2c5; 
+    font-family: Arial;
+    margin-left:430px;
+   
 }
+
+
